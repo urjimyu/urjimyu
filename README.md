@@ -1,3 +1,6 @@
+
+![KakaoTalk_Photo_2023-07-13-23-46-24](https://github.com/urjimyu/urjimyu/assets/92876819/cb535070-1acd-442c-8781-c42a39f6d3a2)
+
 ### Hi there 👋
 
 <!--
