@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+<!--### Hi there 👋
 **urjimyu/urjimyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+# Jimin Yu - Frontend Developer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urjimyu&show_icons=true&theme=maroongold)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=urjimyu&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/urjimyu/)
 -->
