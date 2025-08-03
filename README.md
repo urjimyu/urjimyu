@@ -23,7 +23,7 @@
 
 - 🌏 Open to global opportunities, especially in the **fintech** industry
 - 🧠 Enjoy solving algorithm problems in LeetCode & Baekjoon
-- 🛠 Released **3 services**, led teams in **6 hackathons**, and won multiple awards
+- 🛠 Released **3 services**, experienced **6 hackathons**, and won multiple awards
 - 🧪 Passionate about clean UI/UX, QA processes, and reliable infrastructure
 - 📚 Currently diving deeper into **Next.js**, and **system design**
 
@@ -71,3 +71,17 @@ Design     : Figma
 - Email: s.usmmr2@gmail.com
 
 -->
+
+## 🛠️ Tech Stack
+
+```
+Frontend   : React, Vue.js, TypeScript, JavaScript
+Styling    : styled-components, Tailwind CSS, Bootstrap 
+State Management : React Query(Tanstack Query), Recoil, Pinia
+Testing    : Jest, MSW  
+DevOps     : GitHub Actions, CI/CD, Vercel  
+Design     : Figma  
+```
+---
+
+**KB IT's Your Life (2025.03 ~ ing)**
