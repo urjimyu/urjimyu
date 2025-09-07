@@ -75,13 +75,15 @@ Design     : Figma
 ## 🛠️ Tech Stack
 
 ```
-Frontend   : React, Vue.js, TypeScript, JavaScript
-Styling    : styled-components, Tailwind CSS, Bootstrap 
-State Management : React Query(Tanstack Query), Recoil, Pinia
-Testing    : Jest, MSW  
-DevOps     : GitHub Actions, CI/CD, Vercel  
-Design     : Figma  
+Frontend        : React, Vue.js, TypeScript, JavaScript
+Styling         : styled-components, Tailwind CSS, Bootstrap
+State Management: React Query (Tanstack), Recoil, Pinia
+Testing         : Jest, MSW
+Backend         : Java, Spring
+Database        : MySQL, MyBatis, Flyway
+DevOps/Infra    : GitHub Actions (CI/CD), Vercel
+Collaboration   : Figma, Notion, Jira
 ```
 ---
 
-**KB IT's Your Life (2025.03 ~ ing)**
+**⭐️ KB IT's Your Life (2025.03 ~ 2025.08)**
